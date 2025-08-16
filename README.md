@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm **Naduni Ekanayake**, a tech enthusiast and aspiring **data scientist** passionate about transforming raw data into actionable insights. 🌟 Here's a little about me:
+Welcome to my GitHub profile! I'm **Naduni Ekanayake**, a tech enthusiast and aspiring **data scientist** passionate about transforming raw data into actionable insights. 
 
 ---
 
