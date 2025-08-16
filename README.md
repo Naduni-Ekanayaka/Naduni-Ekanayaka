@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm **Naduni Ekanayake**, a tech enthusiast and as
   - Earned a **Diploma in English** at IMBS University.
 - 🌍 **Interests**: Data Science, Machine Learning, AI, and Big Data Analytics.
 - 🖥️ **Programming Skills**:
-  - **Languages**: Python, php,c,java script, SQL, Java, C++.
-  - **Tools**: Jupyter Notebook, TensorFlow, PyTorch, Tableau, Power BI.
+  - **Languages**:Python, PHP, C, JavaScript, SQL, Java, C++, R, Kotlin
+  - **Tools**: Jupyter Notebook, TensorFlow, PyTorch, Tableau, Power BI, Figma
   - **Database Systems**: MySQL, MongoDB.
   - **Cloud Platforms**: AWS, Azure.
 
