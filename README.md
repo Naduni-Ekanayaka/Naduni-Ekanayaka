@@ -1,16 +1,20 @@
 ──────────────────────────────────────────────
 
 👋 Hi, I'm Naduni Sewwandi
+
 Full Stack Developer | Data Science Enthusiast
-──────────────────────────────────────────────
-💻 Tech Stack: Java • Python • React • Node.js • MongoDB
+
 ──────────────────────────────────────────────
 
-### 🔥 GitHub Streak  
+💻 Tech Stack: Java • Python • React • Node.js • MongoDB
+
+──────────────────────────────────────────────
+
+ 🔥 GitHub Streak  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Naduni-Ekanayaka&theme=tokyonight)
 
 
-### 🎓 Education
+ 🎓 Education
 - Pursuing **BSc (Hons) in Information Technology**, specializing in **Data Science** at [SLIIT](https://www.sliit.lk)  
 - Completed a **Diploma in Information Technology** at [ESOFT Metro Campus](https://esoft.lk)  
 - Earned a **Diploma in English** from **IMBS University**
