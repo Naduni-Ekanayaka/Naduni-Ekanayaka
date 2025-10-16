@@ -29,6 +29,6 @@ Java • Python • C • C++
 ---
 
 ### 📫 Connect With Me  
-- 💼 [LinkedIn](#)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/naduni-sewwandi-b14933384 )  
 - 🧑‍💻 [GitHub](https://github.com/yourusername)  
-- 📧 [Email](#)
+- 📧 [Email](nadusewwandi0507@gmail.com)
