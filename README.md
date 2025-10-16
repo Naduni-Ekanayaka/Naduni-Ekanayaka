@@ -10,11 +10,7 @@ Full Stack Developer | Data Science Enthusiast
 
 ──────────────────────────────────────────────
 
- 🔥 GitHub Streak  
  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Naduni-Ekanayaka&theme=tokyonight)
-
-
  🎓 Education
 - Pursuing **BSc (Hons) in Information Technology**, specializing in **Data Science** at [SLIIT](https://www.sliit.lk)  
 - Completed a **Diploma in Information Technology** at [ESOFT Metro Campus](https://esoft.lk)  
