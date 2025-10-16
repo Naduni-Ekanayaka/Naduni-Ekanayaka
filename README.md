@@ -11,6 +11,7 @@ Full Stack Developer | Data Science Enthusiast
 ──────────────────────────────────────────────
 
  🔥 GitHub Streak  
+ 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Naduni-Ekanayaka&theme=tokyonight)
 
 
@@ -19,8 +20,10 @@ Full Stack Developer | Data Science Enthusiast
 - Completed a **Diploma in Information Technology** at [ESOFT Metro Campus](https://esoft.lk)  
 - Earned a **Diploma in English** from **IMBS University**
 
+
 ### 🌍 Interests
 Data Science • Machine Learning • Artificial Intelligence • Big Data Analytics • Full-Stack Development
+
 
 
 ### 🖥️ Programming & Technical Skills
@@ -60,7 +63,7 @@ Data Science • Machine Learning • Artificial Intelligence • Big Data Analy
 
 
 ### 🎨 Design & Tools  
-Figma • Adobe XD • Photoshop • Canva  
+Figma   • Adobe XD   • Photoshop   • Canva  
 
 
 🌱 Currently Learning  
@@ -71,5 +74,5 @@ Figma • Adobe XD • Photoshop • Canva
 
 ### 📫 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/naduni-sewwandi-b14933384 )  
-- 🧑‍💻 [GitHub](https://github.com/yourusername)  
+- 🧑‍💻 [GitHub](https://github.com/Naduni-Ekanayaka)  
 - 📧 [Email](nadusewwandi0507@gmail.com)
