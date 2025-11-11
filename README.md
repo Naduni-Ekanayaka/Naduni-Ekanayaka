@@ -2,42 +2,25 @@
 
 Full Stack Developer | Data Science Enthusiast
 
-💻 Tech Stack
+💻 Tech Stack: Java • Python • React • Node.js • MongoDB
 
-Java • Python • React • Node.js • MongoDB
+🎓 Education:
+BSc (Hons) in Information Technology – Data Science (SLIIT)
+Diploma in Information Technology (ESOFT Metro Campus)
+Diploma in English (IMBS University)
 
-🎓 Education
+🌍 Interests: Data Science • Machine Learning • AI • Big Data • Full-Stack Development
 
-🎓 Pursuing BSc (Hons) in Information Technology specializing in Data Science at SLIIT
+🖥️ Skills:
+Languages: Python, Java, JavaScript, C, C++, Kotlin, SQL
+Frameworks: React, Node.js, Express.js
+Databases: MongoDB, MySQL
+Tools: Git, VS Code, Figma, Power BI, Tableau
 
-💻 Completed Diploma in Information Technology at ESOFT Metro Campus
+🌱 Currently Learning: Advanced React • DSA • Cloud Deployment
 
-🗣️ Earned a Diploma in English from IMBS University
+📫 Connect:
 
-🌍 Interests
-
-Data Science • Machine Learning • Artificial Intelligence • Big Data Analytics • Full-Stack Development
-
-🖥️ Programming & Technical Skills
-
-Languages: Python • Java • JavaScript • PHP • C • C++ • R • SQL • Kotlin
-Frameworks & Libraries: React • Node.js • Express.js • TensorFlow • PyTorch
-Databases: MongoDB • MySQL
-Cloud Platforms: AWS • Azure
-Tools: Jupyter Notebook • Tableau • Power BI • Figma • Git • VS Code
-
-🎨 Frontend Development              ⚙️ Backend Development
-🧠 Programming Languages             🎨 Design & Tools
-  Figma • Adobe XD • Photoshop • Canva
-
-🌱 Currently Learning
-
-Advanced React and API Integration
-Data Structures and Algorithms (DSA)
-Cloud Deployment and Database Optimization
-
-📫 Connect With Me
-
-💼 LinkedIn-https://www.linkedin.com/in/naduni-sewwandi-b14933384?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Boqp0qvmnRJydIsQOgYPzTA%3D%3D
-🧑‍💻 GitHub-https://github.com/Naduni-Ekanayaka
-📧 Email-nadusewwandi0507@gmail.com
+💼 LinkedIn
+🧑‍💻 GitHub
+📧 Email
