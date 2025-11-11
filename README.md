@@ -1,6 +1,4 @@
-──────────────────────────────────────────────
-
-👋 Hi, I'm Naduni Sewwandi
+            Naduni Ekanayaka
 
 Full Stack Developer | Data Science Enthusiast
 
@@ -68,7 +66,7 @@ Figma   • Adobe XD   • Photoshop   • Canva
 - **Cloud Deployment** and **Database Optimization** 
 
 
-### 📫 Connect With Me  
+ 📫 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/naduni-sewwandi-b14933384 )  
 - 🧑‍💻 [GitHub](https://github.com/Naduni-Ekanayaka)  
 - 📧 [Email](nadusewwandi0507@gmail.com)
